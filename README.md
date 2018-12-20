@@ -8,7 +8,7 @@ hyperoperational calculus.
 - graph hyperoperational derivatives and integrals
 - provide a clean and interactive user interface
 
-## Section A - User Interface
+# Section A - User Interface
 Before developing the application for our research, we will
 set up the GUI we want.
 
@@ -43,7 +43,7 @@ launching the app with a menu.
 - How much information does the app need before it starts graphing?
 - (IMPORTANT) How will error data get to the user and the developer?
 
-### Section B - Computational Calculus
+## Section B - Computational Calculus
 First, we get from the user to the graph by the entrance of a function by the user.
 Secondly, we must construct a function using what the user entered.
 Only then are we ready to plot.
